@@ -4,10 +4,18 @@
 </p>
 
 # Hola — Soy Arturo López 👋
-> Data Scientist Jr. | Analista de Datos con experiencia en visualización, limpieza y modelado para toma de decisiones.
+> Data Scientist Jr | Data Analyst | Machine Learning Applied | Business Intelligence | Freelance Analytics Consultant
 
-<!-- Badges principales -->
-<p align="center">
+### Sobre mí
+**Data Scientist Jr.** con con base sólida en análisis de datos, modelado predictivo y pensamiento orientado a negocio. Ingeniero de formación con experiencia previa como Analista de Datos aplicando Python y SQL para resolver desafíos reales mediante analítica, automatización y visualización de datos. He desarrollado proyectos de Machine Learning para construir y evaluar modelos de clasificación y regresión. 
+
+Me caracteriza una mentalidad de aprendizaje continuo, capacidad de adaptación y enfoque colaborativo en entornos ágiles. Busco aportar valor en un equipo de tecnología en industrias dinámicas como Retail, E-commerce y Fintech, contribuyendo con soluciones basadas en datos mientras continúo fortaleciendo mi desarrollo en inteligencia artificial aplicada.
+
+---
+
+### Skills técnicos
+  #### Data
+  <p align="left">
   <!-- Tech / Data -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -17,31 +25,21 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-0E84B5?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  
+  #### Machine Learning
+  <p align="left">
   <!-- ML -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  
+  #### Control de versiones
+  <p align="left">
   <!-- Dev -->
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
-
-### Sobre mí
-Soy **Analista de Datos / Data Scientist Jr.** con experiencia en proyectos de análisis exploratorio, limpieza de datos, visualización y modelos supervisados. Trabajo con datasets reales para extraer insights accionables que ayuden a la toma de decisiones.
-
-### Experiencia y logros
-- Análisis de ventas y KPIs en proyectos de retail (limpieza,  ETL con Python y consultas en BigQuery).
-- Dashboards interactivos en Power BI para reporting semanal y mensual.
-- Implementación de pipelines reproducibles con notebooks y control de versiones en GitHub.
-- Mejora de procesos: reducción de tiempo en preparación de datos mediante scripts automáticos (ej.: pandas + SQL).
-
-### Actualmente trabajando en
-- Proyecto personal: **Modelado de churn** para clientes corporativos (data cleaning, feature engineering y modelo baseline con scikit-learn).
-- Portafolio: subir notebooks y reportes en repositorios separados con `notebooks/`, `data/` (ejemplo reproducible).
-
-### Certificaciones
-- Certificados relevantes (añade los tuyos aquí): *Google Data Analytics*, *Coursera - Data Science*, *Power BI*.
 
 ### Contacto
 <p align="left">
